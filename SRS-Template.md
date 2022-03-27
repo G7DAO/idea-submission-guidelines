@@ -1,4 +1,6 @@
 # Software Requirements Specification
+ISO/IEC/IEEE 29148:2018 Software Requirements Specification
+
 Thank you [Jose Montoya](https://github.com/jam01/SRS-Template/blob/master/template.md) for this amazing template
 ## For <project name>
 
