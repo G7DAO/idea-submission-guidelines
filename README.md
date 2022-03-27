@@ -30,7 +30,7 @@ The process of how an idea gets converted into a specification is as follows:
 All ideas that have been approved by the G7 community are placed into an SRS (ISO/IEC/IEEE 29148:2018 Software Requirements Specification) pipeline and placed into the development calendar. SRS development roadmap is coordinated with the idea author.
 
 The SRS with be developed, in conjunction with the idea author, in the following manner:
-* Create **PUBLIC** G7 repo, add SRS template and README. [Sample SRS template](asdasd)
+* Create **PUBLIC** G7 repo, add SRS template and README. [Sample SRS template](https://github.com/G7DAO/g7-guidelines/blob/main/SRS-Template.md)
 * Complete SRS with the idea author using the SRS template.
 * The SRS should be as complete as possible. It should include diagrams, user stories and detailed feature descriptions.
 * The SRS should is considered complete when any competent developer can build an MVP from the SRS.
