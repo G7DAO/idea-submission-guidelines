@@ -48,7 +48,7 @@ Here are the 5 steps to developing your idea **BEFORE** submitting it to G7.
 
 ### How an idea is developed or shaped by G7 and you
 The G7 team will meet to discuss / shape the idea as you have submitted it. The team will create a shared, working document where recommendations and changes can be made. Your idea is evaluated and tested for the following qualities:
-* **Unique:** What is/are the most important feature(s) that is/are unique to your idea.
+* **Unique:** What is / are the most important feature(s) that is / are unique to your idea.
 * **Competition:** Are the core features already available in another product?
 * **Viability:** Viability measures how long (duration) it will work for and how successful it will be.
 * **Feasibility:** Feasibility measures how easy or difficult it is to achieve or to do something.
