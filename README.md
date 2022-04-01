@@ -26,6 +26,8 @@ The process of how an idea gets converted into a specification is as follows:
 * MVP is presented to the G7 community for a vote.
 * MVP is moved to the spec pipeline if majority votes yes on the idea.
 
+[IDEA SUBMISSION PROCESS and EXAMPLES](https://github.com/G7DAO/g7-guidelines/blob/main/idea/README.md)
+
 ### The Specification: _(hope someone build this)_
 All ideas that have been approved by the G7 community are placed into an SRS (ISO/IEC/IEEE 29148:2018 Software Requirements Specification) pipeline and placed into the development calendar. SRS development roadmap is coordinated with the idea author.
 
