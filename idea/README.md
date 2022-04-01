@@ -17,7 +17,7 @@ A product idea is when a person(s) identifies a problem, identifies an inefficie
 The idea attempts to diagnose the situation so that the focus is on the problem, not just its symptoms. [ROOT CAUSE ANALYSIS](https://asq.org/quality-resources/root-cause-analysis) can be used to get to the root of a problem. 
 
 Here are the 5 steps to developing your idea **BEFORE** submitting it to G7.
-* **Problem Identification:** In this process, the company first has to solve one of our society’s problems. So, it needs to recognize a problem or why will people consume or use it? While several other products don’t give solutions to the problem but your product will. Defining a problem is thus, vital. A good resource for problem identification is the [FISHBONE DIAGRAM](https://asq.org/quality-resources/fishbone).
+* **Problem Identification:** In this process, the teams first has to solve one of our society’s problems. So, it needs to recognize a problem and why people will consume or use it. While several other products don’t give solutions to the problem but your product will. Defining a problem is thus, vital. A good resource for problem identification is the [FISHBONE DIAGRAM](https://asq.org/quality-resources/fishbone).
 
 
 * **Product Overview:** Now you need to define the idea in a more detailed way and more from the intended users side and what they think is useful. Four components shape the core of the product overview: 
