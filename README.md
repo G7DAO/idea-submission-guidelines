@@ -3,9 +3,9 @@ The G7 Product Development Guidelines establishes standards, conventions and gui
 
 ### Vision
 G7 believes that all opensource products brought from concept to scale exist in 4 opensource states. Each state is sharable and can add value to the opensource community.
-* **Idea** - An idea described in a way that it can be shared.
+* **Idea** - [An idea should be described in a way that it can be shared and a specification created from it.](https://github.com/G7DAO/g7-guidelines/blob/main/idea/README.md)
 * **Specification** - An product spec written in a way that it can be shared and that something can be built from it.
-* **Prototype** - An MVP that can be shared and provides a foundation that can be integrated into any project.
+* **Prototype** - An MVP that can be shared and provides a foundation for a working product.
 * **Production** - A working product that can be shared and that can be used with very little additional work.
 
 **Goals:**
