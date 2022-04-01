@@ -1,5 +1,5 @@
 ## G7 Product Ideas
-Identifying and Developing great ideas is G7's highest priority. **ALL** ideas submitted are considered; **NO EXCEPTIONS.** It does not matter how experienced you are, where you come from, how famous you are or how many Twitter followers you have, we want to hear from you.
+Identifying and Developing great ideas is G7's highest priority. **ALL** ideas submitted are considered; **NO EXCEPTIONS.** It does not matter how experienced you are, where you come from, how famous you are or how many Twitter followers you have, **we want to hear from you**.
 
 The G7 team considers, aggregates and distills ideas into potential products that can be rapidly converted into an opensource specification.
 
