@@ -37,10 +37,10 @@ Here are the 5 steps to developing your idea **BEFORE** submitting it to G7.
 
 ### How to submit a Product Idea
 * Download the following template and complete it.
-  * See 2 examples in idea directory
-* Use one of the following methods to submit your idea:
+  * [PDF](https://github.com/G7DAO/g7-guidelines/blob/main/idea/G7%20Product%20Idea%20Submission%20Template.pdf)
+  * [DOC](https://docs.google.com/document/d/15ZFSsG1Unvo-yJxvxtWW8Zi_9HU4LzjdX3v-ts9uMBU/edit?usp=sharing)
+* Join the Game7 discord and request idea submission details in Idea Channel:
   * [DISCORD](https://discord.gg/WZu2uVNKjW)
-  * [WEBSITE](https://game7.io) 
 * Expectation after submitting idea:
   * Receipt of submission within 1 hour
   * Assignment of Project Manager within 24 hours
