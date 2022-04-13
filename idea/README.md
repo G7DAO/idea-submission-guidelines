@@ -39,9 +39,9 @@ Here are the 5 steps to developing your idea **BEFORE** submitting it to G7.
 Your idea should be submitted in the following manner.
 1. Your idea should be formulated using the lean canvas method or the PR FAQ Method. Either method works well. Here are examples and descriptions. _note: if your idea is already wireframed or in a deck, ignore this step_  
    * [Communicate your Idea Clearly and Concisely](https://leanstack.com/lean-canvas) using lean canvas.
-     * [Download PDF](https://github.com/G7DAO/g7-guidelines/blob/main/idea/G7%20Product%20Idea%20Submission%20Template.pdf)
+     * [Download PDF](https://github.com/G7DAO/g7-guidelines/blob/main/idea/Lean-Canvas.pdf)
    * [Communicate your Idea Clearly and Concisely](https://medium.com/agileinsider/press-releases-for-product-managers-everything-you-need-to-know-942485961e31) using the PR FAQ process.
-     * [Download PDF](https://github.com/G7DAO/g7-guidelines/blob/main/idea/G7%20Product%20Idea%20Submission%20Template.pdf)
+     * [Download PDF](https://github.com/G7DAO/g7-guidelines/blob/main/idea/G7-PR-FAQ-Product-Idea-Submission.pdf)
 2. Join the Game7 discord and request idea submission details in Idea Channel:
     * [DISCORD](https://discord.gg/WZu2uVNKjW)
 3. Expectation after submitting idea:
