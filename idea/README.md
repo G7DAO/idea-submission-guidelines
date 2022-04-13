@@ -36,15 +36,18 @@ Here are the 5 steps to developing your idea **BEFORE** submitting it to G7.
 * **Product Benefits at Scale:** If this is built and goes to market, what benefits will society gain from this product. What's the vision.. the big picture.
 
 ### How to submit a Product Idea
-* Download the following template and complete it.
-  * [PDF](https://github.com/G7DAO/g7-guidelines/blob/main/idea/G7%20Product%20Idea%20Submission%20Template.pdf)
-  * [DOC](https://docs.google.com/document/d/15ZFSsG1Unvo-yJxvxtWW8Zi_9HU4LzjdX3v-ts9uMBU/edit?usp=sharing)
-* Join the Game7 discord and request idea submission details in Idea Channel:
-  * [DISCORD](https://discord.gg/WZu2uVNKjW)
-* Expectation after submitting idea:
-  * Receipt of submission within 1 hour
-  * Assignment of Project Manager within 24 hours
-  * Next steps email or message (discord) within 24 hours
+Your idea should be submitted in the following manner.
+1. Your idea should be formulated using the lean canvas method or the PR FAQ Method. Either method works well. Here are examples and descriptions. _note: if your idea is already wireframed or in a deck, ignore this step_  
+   * [Communicate your Idea Clearly and Concisely](https://leanstack.com/lean-canvas) using lean canvas.
+     * [Download PDF](https://github.com/G7DAO/g7-guidelines/blob/main/idea/G7%20Product%20Idea%20Submission%20Template.pdf)
+   * [Communicate your Idea Clearly and Concisely](https://medium.com/agileinsider/press-releases-for-product-managers-everything-you-need-to-know-942485961e31) using the PR FAQ process.
+     * [Download PDF](https://github.com/G7DAO/g7-guidelines/blob/main/idea/G7%20Product%20Idea%20Submission%20Template.pdf)
+2. Join the Game7 discord and request idea submission details in Idea Channel:
+    * [DISCORD](https://discord.gg/WZu2uVNKjW)
+3. Expectation after submitting idea:
+    * Receipt of submission within 12 hours
+    * Assignment of Project Manager within 24 hours
+    * Next steps email will be sent to you within 24 hours
 
 ### How an idea is developed or shaped by G7 and you
 The G7 team will meet to discuss / shape the idea as you have submitted it. The team will create a shared, working document where recommendations and changes can be made. Your idea is evaluated and tested for the following qualities:
